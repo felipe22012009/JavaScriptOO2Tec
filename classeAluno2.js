@@ -41,6 +41,9 @@ let turma = [
 
 console.log(turma[1]);
 
+for(let i = 0; i < turma.length; i ++ ){
+    turma [1].exibirRelatorio();
+}
 
 
 
